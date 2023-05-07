@@ -6,3 +6,6 @@ MVC (Model-View-Controller) pattern is widely used in web development because it
 - Code reusability: Since the application logic is separated from the presentation, the components can be reused in other parts of the application or even in other applications.
 - Testability: The separation of concerns makes it easier to write unit tests for each component, ensuring that the application works as expected.
 - Scalability: The pattern allows for the application to be easily scaled by adding new components or modifying existing ones without affecting the others.
+
+## Why i use MVC?
+https://documenter.getpostman.com/view/24707420/2s93eYTrb2
